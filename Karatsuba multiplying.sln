@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karatsuba multiplying", "Karatsuba multiplying\Karatsuba multiplying.csproj", "{CC0A4B79-188E-41F4-9873-923CACE2FEC9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karatsubamultiplying", "Karatsuba multiplying\Karatsubamultiplying.csproj", "{CC0A4B79-188E-41F4-9873-923CACE2FEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleTests", "MultipleTests\MultipleTests.csproj", "{8F4A92F9-965D-4ED5-B2F1-152FF658E82E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CC0A4B79-188E-41F4-9873-923CACE2FEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC0A4B79-188E-41F4-9873-923CACE2FEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC0A4B79-188E-41F4-9873-923CACE2FEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F4A92F9-965D-4ED5-B2F1-152FF658E82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4A92F9-965D-4ED5-B2F1-152FF658E82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4A92F9-965D-4ED5-B2F1-152FF658E82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4A92F9-965D-4ED5-B2F1-152FF658E82E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

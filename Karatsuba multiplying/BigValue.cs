@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Karatsuba_multiplying
 {
-    class BigValue
+    public class BigValue
     {
         const int DIVIDER = 10;
 
